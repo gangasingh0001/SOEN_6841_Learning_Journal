@@ -1,4 +1,4 @@
-# Learning Journal: Week 1 Summary (Jan 18 - Jan 24)
+# Learning Journal
 
 ## Course: Software Project Management & Software Engineering
 
